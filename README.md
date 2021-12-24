@@ -8,8 +8,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-| <a><img align="center" alt="Huang's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=sanjayheaven&show_icons=true"></a> | <a><img align="center" alt="Huang's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"> </a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a><img align="center" alt="Huang's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=sanjayheaven&show_icons=true&hide_border=true"></a> | <a><img align="center" alt="Huang's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true"> </a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <!--
 **sanjayheaven/sanjayheaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
