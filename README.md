@@ -1,7 +1,7 @@
-<img align="right" alt="yechaoa's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=sanjayheaven&show_icons=true">
-
 ### Hi there 👋
 
+| <img align="center" alt="Huang's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=sanjayheaven&show_icons=true"> | <img align="center" alt="Huang's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--
 **sanjayheaven/sanjayheaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
