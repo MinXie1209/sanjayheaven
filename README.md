@@ -20,6 +20,10 @@ I am Huang Daoxu, a Software Developer, currently focusing on improving developm
 | <img align="center" alt="Huang's github stats" src="https://github-readme-stats.vercel.app/api?username=sanjayheaven&show_icons=true&hide_border=true&include_all_commits=true"> | <img align="center" alt="Huang's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true"> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+### Contributions Graph  
+![snake](https://raw.githubusercontent.com/sanjayheaven/sanjayheaven/output/github-contribution-grid-snake.svg)
+
+
 <!-- ### TODOs -->
 
 <!-- - Try to use SOA idea to standardize the backend
